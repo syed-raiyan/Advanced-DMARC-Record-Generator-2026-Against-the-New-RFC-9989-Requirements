@@ -6,6 +6,8 @@ The Advanced DMARC Record Generator is a browser-based tool for people who need 
 
 👉 **[Open the live tool on syedraiyan.uk](https://syedraiyan.uk/Advanced-DMARC-Record-Generator-2026-Against-the-New-RFC-9989-Requirements)**
 
+> *Built to eliminate [Vibe Mailing](https://syedraiyan.uk/blog/vibe-mailing-email-deliverability) and replace guesswork with deterministic deliverability telemetry.*
+
 This repository is a **public project overview and documentation page**. It introduces the tool and links to the live application; it is not the source-code repository for the website implementation.
 
 ---
